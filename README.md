@@ -1,1 +1,1 @@
-# LinvilleCrusher
+For this project a map was drawn on Onxbackcountry and turned into a GPX file. That file was placed into a GeoJson format and qualitative data was added to each marker. The geoJson was turned into a data variable in javascript. This data was overlayed on a leaflet map, and through trial and error the markers can be clicked on to reveal informaiton. The information was found on a blog post made by Karsten Delap, a local Mountain Guide.
